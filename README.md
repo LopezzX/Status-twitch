@@ -1,2 +1,2 @@
 # Status-twitch
-How to Use
+input token, status
